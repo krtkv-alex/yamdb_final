@@ -1,3 +1,6 @@
+![example workflow](https://github.com/krtkv-alex/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+
+
 # api_yamdb
 api_yamdb
 Проект **YaMDb** собирает **отзывы (Review)** пользователей на **произведения (Titles)**. Произведения делятся на категории: «Книги», «Фильмы», «Музыка». Список **категорий (Category)** может быть расширен администратором (например, можно добавить категорию «Изобразительное искусство» или «Ювелирка»).
